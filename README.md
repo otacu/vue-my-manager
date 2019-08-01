@@ -1,9 +1,5 @@
 # vue-my-manager
-
-## Project setup
-```
-npm install
-```
+我的后台，学习用，参考[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
 ### Compiles and hot-reloads for development
 ```
@@ -15,15 +11,3 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
